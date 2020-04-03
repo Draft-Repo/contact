@@ -1,0 +1,14 @@
+{
+    "name": "itparlour/contact",
+    "description": "No description",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IT PARLOUR",
+            "email": "itparlour360@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
